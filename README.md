@@ -7,5 +7,5 @@ Demo: https://gauravbnsl.github.io/github-finder/
 
 ## Photo Gallery App
 
-Source Code: https://github.com/gauravbnsl/photogallery-react 
+Source Code: https://github.com/gauravbnsl/photogallery-react   
 Demo: 
